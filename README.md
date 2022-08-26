@@ -16,3 +16,9 @@ python3 efty.py
 
 ```
 
+## For Termux  Kali and Other Linux Distro:
+```javascript
+
+cldf --help
+
+```
