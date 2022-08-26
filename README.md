@@ -3,10 +3,16 @@ Cloudflare Tunnel requires the installation of a lightweight server-side daemon,
 ## Install
 
 
-## Terms & Conditions 
+## Install & Setup
 
 ```javascript
 
-git clone https://m.facebook.com/teamex2k22/
+git clone https://github.com/Teamex07/cloudflared
 
 ```
+```javascript
+
+python3 efty.py
+
+```
+
