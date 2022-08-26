@@ -24,3 +24,6 @@ cldf --help
 ```
 ## Warning 
 - Dont Try Sell It Cuz It's Fucking Free
+
+## Terms & Conditions 
+
