@@ -1,6 +1,6 @@
 # cloudflared
 Cloudflare Tunnel requires the installation of a lightweight server-side daemon, cloudflared,  to connect your infrastructure to Cloudflare. cloudflared is an open source project maintained by Cloudflare.
-## Install
+
 
 
 ## Install & Setup
@@ -22,3 +22,5 @@ python3 efty.py
 cldf --help
 
 ```
+## Warning 
+- Dont Try Sell It Cuz It's Fucking Free
